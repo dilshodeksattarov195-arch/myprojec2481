@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggersalculate",
+        "uuid": 10814679,
+        "checksum": "qdnage"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
